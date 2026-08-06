@@ -7,6 +7,7 @@ import {
   SiNginx, 
   SiSpacy, SiOpencv,
   SiCss, 
+  SiNextdotjs, SiAngular, SiExpress,
 } from 'react-icons/si';
 import { VscVscode } from 'react-icons/vsc';
 import { FiCode, FiServer, FiCloud, FiCpu } from 'react-icons/fi';
@@ -28,6 +29,9 @@ const ICON_MAP = {
   'html 5': SiHtml5,
   'css 3': SiCss,
   'jquery': SiJquery,
+  'next.js': SiNextdotjs,
+  'angular.js': SiAngular,
+  'express.js': SiExpress,
 
   'mysql': SiMysql,
   'postgressql': SiPostgresql,
